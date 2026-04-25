@@ -1,0 +1,75 @@
+{
+  "type": "document",
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/concepts.md",
+  "frontmatter": "---\ntitle: \"Concepts\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n",
+  "nodes": [
+    {
+      "id": "44e2c97fdb42",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "1c206dd68989",
+      "kind": "paragraph",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "7a21098c61c1",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "7f65b29c5fdc",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "c51ac8269b74",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "1aa738a2d75c",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "23d28f238b22",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "a4bf4be609b3",
+      "kind": "paragraph",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "602934511ddd",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "754f1c20f82e",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    }
+  ]
+}

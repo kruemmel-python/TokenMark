@@ -1,0 +1,63 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{max-width:860px;margin:48px auto;padding:0 24px;font-family:system-ui,-apple-system,Segoe UI,sans-serif;line-height:1.65;color:#172033}
+pre{background:#101827;color:#e7edf7;padding:16px;border-radius:12px;overflow:auto}
+code{background:#f3f5f7;padding:.12em .28em;border-radius:5px} pre code{background:transparent;padding:0}
+blockquote{border-left:4px solid #8ba4c4;margin-left:0;padding-left:16px;color:#445066}
+table{border-collapse:collapse;width:100%;margin:1.2em 0}td,th{border:1px solid #d5dbe5;padding:8px 10px}
+.tokenmark-admonition{border:1px solid #d5dbe5;border-left:6px solid #5b7cfa;padding:12px 16px;border-radius:10px;margin:1em 0;background:#f8faff}
+.tokenmark-admonition-title{font-weight:700}
+body.tokenmark-inspect [data-token]:hover{outline:2px solid #ff7a00;position:relative}
+body.tokenmark-inspect [data-token]:hover::after{content:attr(data-token);position:absolute;right:0;top:-1.8em;background:#111;color:white;font:12px monospace;padding:2px 6px;border-radius:4px;z-index:9999}
+</style></head><body class="">
+<nav class="tm-sidebar"><strong>Docs</strong><a class="tm-nav-link" href="brainstorming_notes.html">Chaotisches Brainstorming</a>
+<a class="tm-nav-link" href="generated/concepts.html">Concepts</a>
+<a class="tm-nav-link" href="demo.html">Demo</a>
+<a class="tm-nav-link" href="generated/implementation.html">Implementation</a>
+<a class="tm-nav-link" href="generated/index.html">Notes</a>
+<a class="tm-nav-link" href="generated/open_questions.html">Open Questions</a>
+<a class="tm-nav-link" href="generated/overview.html">Overview</a>
+<a class="tm-nav-link" href="generated/risks-and-open-questions.html">Risks and Open Questions</a>
+<a class="tm-nav-link" href="generated/workflow.html">Workflow</a></nav><div class="tm-search"><input id="tm-search" placeholder="Search docs…" autocomplete="off"><div id="tm-search-results"></div></div>
+<script>
+(async()=>{try{
+const r=await fetch("site_index.json"); const idx=await r.json();
+const q=document.getElementById("tm-search"), out=document.getElementById("tm-search-results");
+if(!q||!out)return;
+q.addEventListener("input",()=>{const v=q.value.toLowerCase().trim(); out.innerHTML="";
+ if(!v)return; idx.pages.filter(p=>(p.title+" "+p.text).toLowerCase().includes(v)).slice(0,8)
+ .forEach(p=>{const a=document.createElement("a"); a.href=p.url; a.textContent=p.title; out.appendChild(a);});
+});
+}catch(e){}})();
+</script>
+<main class="tm-content"><h1 id="c11cf6eafa1a" data-token="c11cf6eafa1a">[en] Einführung</h1>
+<p data-token="703f315ae039">[en] Hallo <strong>Welt</strong>. Dies ist ein <a href="https://example.com">Link</a> mit stabiler Text-ID.</p>
+<span hidden data-token="0ffaf6d3f1b9">[en] Link</span>
+<ul>
+<li data-token="ce338164ad03">[en] Punkt eins</li>
+<li data-token="dbea854ebc72">[en] Punkt zwei mit <code>inline code</code></li>
+</ul>
+<blockquote data-token="746a1f3dc2d7">[en] Ein wichtiger Hinweis.</blockquote>
+<div class="tokenmark-admonition tokenmark-admonition-info"><div class="tokenmark-admonition-title" data-token="69c0a8188955">[en] Hinweis</div>
+<div class="tokenmark-admonition-body" data-token="91661ce5840f">[en] Dieser Admonition-Text ist übersetzbar.</div></div>
+<table><tbody>
+<tr><td data-token="481718820fdb">[en] Spalte A</td><td data-token="f21d17b21a68">[en] Spalte B</td></tr>
+<tr><td data-token="ce196a7c3387">[en] Alpha</td><td data-token="11eed5d2df57">[en] Beta</td></tr>
+</tbody></table>
+<p data-token="b5aa59609be2">[en] <img src="image.png" alt="Alternativtext" /></p>
+<span hidden data-token="00fd913c51d1">[en] Alternativtext</span>
+<pre data-token="671b19664d5e"><code class="language-python">print(&quot;nicht übersetzen&quot;)
+</code></pre>
+<p data-token="70e51ac9263d">[en] Mehr Text.</p></main><aside class="tm-toc"><strong>On this page</strong><a class="tm-toc-l1" href="#c11cf6eafa1a">[en] Einführung</a></aside>
+<script>
+window.addEventListener("message", ev=>{
+  if(!ev.data || ev.data.type!=="tokenmark-update") return;
+  const el=document.querySelector(`[data-token="${ev.data.id}"]`);
+  if(el) el.innerHTML=ev.data.target;
+});
+document.addEventListener("click", e=>{
+  const el=e.target.closest("[data-token]");
+  if(el && window.parent && window.parent!==window){
+    window.parent.postMessage({type:"tokenmark-select", id:el.dataset.token}, "*");
+  }
+});
+</script></body></html>

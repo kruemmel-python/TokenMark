@@ -1,0 +1,27 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_work/docs/generated/open_questions.md",
+  "entries": [
+    {
+      "id": "b0097b124b7a",
+      "kind": "heading",
+      "source": "Open Questions",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:869ddafd6d30cad8832eab17f61a2c242f6ba842754e1518151b58631788be00",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "2d296f5892fb",
+      "kind": "list_item",
+      "source": "Wie markieren wir offene Fragen?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:c2c9e7d7511cf4a1ee6f3e1f116ea12c68bb427757d1a12b57f435d81a3246ce",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

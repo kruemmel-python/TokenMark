@@ -1,0 +1,39 @@
+{
+  "version": "0.9.1",
+  "source_dir": "docs",
+  "build_dir": "build",
+  "default_lang": "de",
+  "locales_dir": "locales",
+  "theme": "themes/default.css",
+  "plugins": [
+    "tokenmark.plugins.admonitions"
+  ],
+  "include_frozen": false,
+  "id_similarity_threshold": 0.88,
+  "tm_path": "locales/tm.sqlite",
+  "site": true,
+  "glossary_path": "locales/glossary.json",
+  "incremental": true,
+  "tm_backend": "sqlite",
+  "tm_fuzzy_threshold": 0.82,
+  "mdx": true,
+  "ci_base": "origin/main",
+  "semantic_tm": true,
+  "mdx_translatable_props": [
+    "title",
+    "label",
+    "description",
+    "alt",
+    "aria-label",
+    "placeholder"
+  ],
+  "embedding_backend": "hash",
+  "embedding_model": "",
+  "compose": {
+    "default_provider": "heuristic",
+    "default_outdir": "docs/generated",
+    "default_document_type": "technical-guide",
+    "default_audience": "developers",
+    "include_trace": true
+  }
+}

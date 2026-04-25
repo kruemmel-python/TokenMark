@@ -1,0 +1,69 @@
+{
+  "type": "document",
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/brainstorming_notes.md",
+  "frontmatter": "",
+  "nodes": [
+    {
+      "id": "d483884b4f13",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "efa64521b5fc",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "644c658d896c",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "ab72e357670b",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "76b101b744ec",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "825569485b9a",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "03ce736eeb42",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "cc96f64a8ad6",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "4a5dfcdb5885",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "560ed3932a8f",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    }
+  ]
+}

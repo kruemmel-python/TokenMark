@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset='utf-8'><title>TokenMark i18n Dashboard</title>
+<style>
+body{font-family:system-ui;margin:40px;background:#0f172a;color:#e5e7eb}
+.card{background:#111827;border:1px solid #334155;border-radius:18px;padding:20px;margin:16px 0;box-shadow:0 10px 30px #0004}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(140px,1fr));gap:16px}
+.big{font-size:34px;font-weight:800} .muted{color:#94a3b8}
+.bar{height:12px;background:#334155;border-radius:999px;overflow:hidden} .bar i{display:block;height:100%;background:#22c55e}
+.stack{height:24px;border-radius:999px;overflow:hidden;background:#334155;display:flex} .tr{background:#22c55e} .rv{background:#f59e0b} .mi{background:#ef4444}
+table{width:100%;border-collapse:collapse} td,th{padding:10px;border-bottom:1px solid #334155;text-align:left} code{color:#93c5fd}
+a{color:#93c5fd}
+</style></head><body>
+<h1>TokenMark Localization Dashboard</h1><p class='muted'>Language: <b>de</b></p>
+<div class='card'>
+<div class='grid'>
+<div><div class='big'>0.0%</div><div class='muted'>Translated</div></div>
+<div><div class='big'>21.1%</div><div class='muted'>Needs review</div></div>
+<div><div class='big'>78.9%</div><div class='muted'>Missing</div></div>
+<div><div class='big'>0</div><div class='muted'>QA warnings</div></div>
+</div>
+<p></p><div class='stack'><span class='tr' style='width:0.0%'></span><span class='rv' style='width:21.1%'></span><span class='mi' style='width:78.9%'></span></div>
+</div>
+<div class='card'><h2>Pages needing attention</h2><table><thead><tr><th>Page</th><th>Translated</th><th>Review</th><th>Missing</th><th>QA</th><th>Progress</th></tr></thead><tbody>
+<tr>
+<td><code>docs/demo.md</code></td>
+<td>0</td><td>15</td><td>0</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/generated/index.md</code></td>
+<td>0</td><td>0</td><td>11</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/brainstorming_notes.md</code></td>
+<td>0</td><td>0</td><td>10</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/generated/concepts.md</code></td>
+<td>0</td><td>0</td><td>10</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/generated/implementation.md</code></td>
+<td>0</td><td>0</td><td>10</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/generated/workflow.md</code></td>
+<td>0</td><td>0</td><td>7</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/generated/open_questions.md</code></td>
+<td>0</td><td>0</td><td>4</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/generated/overview.md</code></td>
+<td>0</td><td>0</td><td>2</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr><tr>
+<td><code>docs/generated/risks-and-open-questions.md</code></td>
+<td>0</td><td>0</td><td>2</td><td>0</td>
+<td><div class='bar'><i style='width:0.0%'></i></div></td>
+</tr>
+</tbody></table></div>
+<script id='tokenmark-dashboard-data' type='application/json'>{&quot;lang&quot;: &quot;de&quot;, &quot;total&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 56, &quot;needs_review&quot;: 15, &quot;frozen&quot;: 0, &quot;total&quot;: 71, &quot;lint_issues&quot;: 0}, &quot;pages&quot;: [{&quot;source&quot;: &quot;docs/demo.md&quot;, &quot;catalog&quot;: &quot;locales/de/demo.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 0, &quot;needs_review&quot;: 15, &quot;frozen&quot;: 0, &quot;total&quot;: 15, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/generated/index.md&quot;, &quot;catalog&quot;: &quot;locales/de/generated/index.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 11, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 11, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/brainstorming_notes.md&quot;, &quot;catalog&quot;: &quot;locales/de/brainstorming_notes.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 10, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 10, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/generated/concepts.md&quot;, &quot;catalog&quot;: &quot;locales/de/generated/concepts.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 10, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 10, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/generated/implementation.md&quot;, &quot;catalog&quot;: &quot;locales/de/generated/implementation.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 10, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 10, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/generated/workflow.md&quot;, &quot;catalog&quot;: &quot;locales/de/generated/workflow.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 7, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 7, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/generated/open_questions.md&quot;, &quot;catalog&quot;: &quot;locales/de/generated/open_questions.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 4, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 4, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/generated/overview.md&quot;, &quot;catalog&quot;: &quot;locales/de/generated/overview.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 2, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 2, &quot;lint_issues&quot;: 0}}, {&quot;source&quot;: &quot;docs/generated/risks-and-open-questions.md&quot;, &quot;catalog&quot;: &quot;locales/de/generated/risks-and-open-questions.catalog.json&quot;, &quot;summary&quot;: {&quot;translated&quot;: 0, &quot;missing&quot;: 2, &quot;needs_review&quot;: 0, &quot;frozen&quot;: 0, &quot;total&quot;: 2, &quot;lint_issues&quot;: 0}}]}</script>
+</body></html>

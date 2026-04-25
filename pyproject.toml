@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tokenmark"
+version = "0.9.4"
+description = "Markdown-first token compiler and documentation localization engine."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["markdown-it-py>=3.0.0"]
+
+[project.optional-dependencies]
+vector = ["sentence-transformers>=2.7.0", "numpy>=1.26.0"]  # optional neural local embeddings; fallback stays built-in
+pdf = ["weasyprint>=61.0"]
+server = ["watchdog>=4.0.0", "fastapi>=0.110.0", "uvicorn>=0.27.0"]
+mkdocs = ["mkdocs>=1.5.0"]
+ai = ["google-genai>=1.0.0"]
+gemini = ["google-genai>=1.0.0"]
+
+[project.scripts]
+tokenmark = "tokenmark.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["tokenmark*"]

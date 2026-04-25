@@ -1,0 +1,101 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/demo.md",
+  "nodes": [
+    {
+      "id": "c11cf6eafa1a",
+      "kind": "heading",
+      "source": "Einführung",
+      "fingerprint": "sha256:8d96b0bdefa41a8849b76d37ef599aeadce5615e51e69091abe8527fe9deca4e"
+    },
+    {
+      "id": "703f315ae039",
+      "kind": "paragraph",
+      "source": "Hallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID.",
+      "fingerprint": "sha256:5347f569dd858e4d10077acaa9f885142008922219e8c562e16a32bdcdf31363"
+    },
+    {
+      "id": "0ffaf6d3f1b9",
+      "kind": "link_text",
+      "source": "Link",
+      "fingerprint": "sha256:a6a32dbc5618ea39f6df5b0f9808e3588b19e00d5f6f96c69492e40386e5aeab"
+    },
+    {
+      "id": "ce338164ad03",
+      "kind": "list_item",
+      "source": "Punkt eins",
+      "fingerprint": "sha256:bc735c48242f424160616f5c44b7499cd3dc5e710923f37e2aa49e524a547eed"
+    },
+    {
+      "id": "dbea854ebc72",
+      "kind": "list_item",
+      "source": "Punkt zwei mit `inline code`",
+      "fingerprint": "sha256:7683840379750099cf758f2d7eadafb07272245e044c6ebd7469521cacea8de6"
+    },
+    {
+      "id": "746a1f3dc2d7",
+      "kind": "blockquote",
+      "source": "Ein wichtiger Hinweis.",
+      "fingerprint": "sha256:7b84f0af3d97653c0fbe01b7ca12f64382dd0008deb2c2fbcee43c4dd44a7e73"
+    },
+    {
+      "id": "69c0a8188955",
+      "kind": "admonition_title",
+      "source": "Hinweis",
+      "fingerprint": "sha256:2e2011d96a4116985c5cfb35df7d4f59083c21b70c8a5ac927e41a1f92f89329"
+    },
+    {
+      "id": "91661ce5840f",
+      "kind": "admonition_body",
+      "source": "Dieser Admonition-Text ist übersetzbar.",
+      "fingerprint": "sha256:7a282e502e6923be21f3e528c6ac3914b9f0617b19ef837c65f5cb0efbd1c51f"
+    },
+    {
+      "id": "481718820fdb",
+      "kind": "table_cell",
+      "source": "Spalte A",
+      "fingerprint": "sha256:3ddd471f12ac7b218b3fede3675a6b9c9a7661511bd82bcd7bc9918e4304d75d"
+    },
+    {
+      "id": "f21d17b21a68",
+      "kind": "table_cell",
+      "source": "Spalte B",
+      "fingerprint": "sha256:b499c3e94778074961de14170cd8802f9eb10f244a6719ec006226afbcde1fd2"
+    },
+    {
+      "id": "ce196a7c3387",
+      "kind": "table_cell",
+      "source": "Alpha",
+      "fingerprint": "sha256:b1a96dd646bccaa24cef7a3db22a6f995f05658f4f1c3272913e258c03e6fb24"
+    },
+    {
+      "id": "11eed5d2df57",
+      "kind": "table_cell",
+      "source": "Beta",
+      "fingerprint": "sha256:703390318bd55aef50b7823d2b90a846debff99e6e3d401a24a921b733912a6d"
+    },
+    {
+      "id": "b5aa59609be2",
+      "kind": "paragraph",
+      "source": "![Alternativtext](image.png)",
+      "fingerprint": "sha256:ee2c5c10b5e43736804ea32397ca59b8e1543720e36e404448404e7436af7768"
+    },
+    {
+      "id": "00fd913c51d1",
+      "kind": "image_alt",
+      "source": "Alternativtext",
+      "fingerprint": "sha256:15a0115c0177cf921cb89c5388325c4839022721f662b992a21d0d5843a82017"
+    },
+    {
+      "id": "671b19664d5e",
+      "kind": "code_block",
+      "source": "print(\"nicht übersetzen\")\n",
+      "fingerprint": "sha256:892b9f7be2fe3c40f13576147034afbd383bcca600462686859d6dcc045fe07c"
+    },
+    {
+      "id": "70e51ac9263d",
+      "kind": "paragraph",
+      "source": "Mehr Text.",
+      "fingerprint": "sha256:2d1a71153b79a487688f759dd2cbfee0a176b8598e62d38e8624a6dd874131b0"
+    }
+  ]
+}

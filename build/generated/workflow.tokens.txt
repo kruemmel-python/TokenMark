@@ -1,0 +1,7 @@
+9317b719b4f9(heading): Workflow
+31ce4456c4b7(paragraph): Describe the operational flow as reproducible steps.
+1c6212243327(heading): Procedure
+b7b25e3025ca(list_item): docs/generated/index.md should become build/generated/index.html.
+efd1f0c55152(heading): Traceability
+50a7cdeb023f(paragraph): The following source notes support this section:
+f4663446f041(list_item): Note #3: docs/generated/index.md should become build/generated/index.html.

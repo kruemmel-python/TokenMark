@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=heading status=current
+msgctxt "2457dbb9c50b"
+msgid "Einführung"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=paragraph status=current
+msgctxt "e5008dd02810"
+msgid "Hallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID."
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=link_text status=current
+msgctxt "e9684e50ba18"
+msgid "Link"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=list_item status=current
+msgctxt "a66a102151ea"
+msgid "Punkt eins"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=list_item status=current
+msgctxt "eeea2fc56a9a"
+msgid "Punkt zwei mit `inline code`"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=blockquote status=current
+msgctxt "be4d2b2ab798"
+msgid "Ein wichtiger Hinweis."
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=admonition_title status=current
+msgctxt "a3ded08a36c8"
+msgid "Hinweis"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=admonition_body status=current
+msgctxt "ba1150d7db0a"
+msgid "Dieser Admonition-Text ist übersetzbar."
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=table_cell status=current
+msgctxt "75bf5154b84b"
+msgid "Spalte A"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=table_cell status=current
+msgctxt "dfbdcfc7bb18"
+msgid "Spalte B"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=table_cell status=current
+msgctxt "c0546232c63d"
+msgid "Alpha"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=table_cell status=current
+msgctxt "00be349b29bd"
+msgid "Beta"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=paragraph status=current
+msgctxt "142fd5c1ef11"
+msgid "![Alternativtext](image.png)"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=image_alt status=current
+msgctxt "cafb7a613484"
+msgid "Alternativtext"
+msgstr ""
+
+#: /mnt/data/tokenmark_v040/docs/demo.md
+#. kind=paragraph status=current
+msgctxt "4c4149d1afcd"
+msgid "Mehr Text."
+msgstr ""

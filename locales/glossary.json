@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "terms": [
+    {
+      "source": "TokenMark",
+      "target": "TokenMark",
+      "note": "Product name."
+    },
+    {
+      "source": "Deployment",
+      "target": "Deployment",
+      "note": "Keep consistent in docs."
+    }
+  ]
+}

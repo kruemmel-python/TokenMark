@@ -1,0 +1,101 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_work/docs/generated/overview.md",
+  "entries": [
+    {
+      "id": "987a9b786bc1",
+      "kind": "heading",
+      "source": "Overview",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "7c70b8e9f96b",
+      "kind": "paragraph",
+      "source": "Explain the purpose, scope, and value of the material.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:dfee86d5dfae22119c440dc48e5d304a69a49e65e529d3b9eb260ca8e297e568",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "c4423c98447f",
+      "kind": "heading",
+      "source": "Key Points",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:9b72a94094ab376d187aa8316a31a740681c9a41afe9ffba5dde37b027c4c718",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "df73c2f21cfe",
+      "kind": "list_item",
+      "source": "Zielgruppe: Python Entwickler und technische Autoren",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:9edf2bdd48a018c55377da9351fd789415d801e1f15ae36ad2d2e8568e127b4e",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "47b48778fdc6",
+      "kind": "list_item",
+      "source": "Markdown bleibt am Ende kontrollierte Ausgabe",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:58971b02568780f58d66cb00be503949f563eed93c922772e16d2ce7e0cf8dc7",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "70dfa162670a",
+      "kind": "heading",
+      "source": "Traceability",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:a14559df36aa03d379157afd83732f774860202dae1507735fbd9cdda4c6fca7",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "1d0e57da9ece",
+      "kind": "paragraph",
+      "source": "The following source notes support this section:",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:8c0e92b0a7eccd6842769e5fff2a7439249540f90ab898fc5025d7b3a705d85f",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "32d73e6300a5",
+      "kind": "list_item",
+      "source": "Note #3: Zielgruppe: Python Entwickler und technische Autoren",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:6a39d8311a1853629531467f2cf84052cca38941abfafc4ff0e06ae797338375",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "53e152e3b154",
+      "kind": "list_item",
+      "source": "Note #4: Markdown bleibt am Ende kontrollierte Ausgabe",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:eb34d0746df6714edb752814400f7ce3aa007f3f31f0b83f38fc25fdfff4d91e",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_work/docs/generated/concepts.md",
+  "entries": [
+    {
+      "id": "d99723c39c70",
+      "kind": "heading",
+      "source": "Concepts",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:0d0a8c6df3ace225e9a8e34274e5c1c1116d1db8319aa5357a8448e8a9ad732f",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "817ae2af60d5",
+      "kind": "paragraph",
+      "source": "Define the core concepts and vocabulary before implementation details.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:d8f2fb54ae65c1d6be7c4ada1e292fbd182a4efccc979db1f2050c791a96577a",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "004c91e28dc8",
+      "kind": "heading",
+      "source": "Key Points",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:9b72a94094ab376d187aa8316a31a740681c9a41afe9ffba5dde37b027c4c718",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "0df3c4406bce",
+      "kind": "list_item",
+      "source": "Chaotisches Brainstorming",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:bcfabe1b1f625fe8c2dd067eb0dc861464d5976f3ff025e5956741c4d3e67737",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "9c3d47571d5a",
+      "kind": "heading",
+      "source": "Procedure",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:9c280284ef2669a2be7280a58557e553942fb2e0d2154e3f5949dc153c029bcf",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "9a7b8dfa5696",
+      "kind": "list_item",
+      "source": "TokenMark soll chaotische Meeting-Notizen aufnehmen",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:62aefa9f7381857a94bc9ede9f9b22617eddb8dd845cdd9196d5bacc491bdd40",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "d14c3590763c",
+      "kind": "list_item",
+      "source": "Pipeline: Notizen -> Intent Graph -> Blueprint -> Markdown -> TokenMark QA",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:1805cd4110f2ef14270c4ae80ccb473a24a917d500b03df82eef95c967387029",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "144b49bf4679",
+      "kind": "list_item",
+      "source": "tokenmark compose meeting.md --type technical-guide --audience developers",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:d56c2c1ee2b52b741b0fd29d59f79b14a110f0cec4b56e18fe9604c33dc8fa6f",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "6ee55b097024",
+      "kind": "heading",
+      "source": "Traceability",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:a14559df36aa03d379157afd83732f774860202dae1507735fbd9cdda4c6fca7",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "b37b49880f32",
+      "kind": "paragraph",
+      "source": "The following source notes support this section:",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:8c0e92b0a7eccd6842769e5fff2a7439249540f90ab898fc5025d7b3a705d85f",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "af8a1d21fbf6",
+      "kind": "list_item",
+      "source": "Note #1: Chaotisches Brainstorming",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:4a1af0b9b3b7c53f8a8df8338ea68128204c7041ca86db1d0bf94a5eda30d9ce",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "5ddbd4d72f50",
+      "kind": "list_item",
+      "source": "Note #2: TokenMark soll chaotische Meeting-Notizen aufnehmen",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:874e3a849cf4a8eea140599118e1ad12b6f3ca962647525e5ccbcdfa29cb7658",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "24c80f0335e6",
+      "kind": "list_item",
+      "source": "Note #5: Pipeline: Notizen -> Intent Graph -> Blueprint -> Markdown -> TokenMark QA",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:634774ee7d93fda24829083c52527fe0eb7a52c8510d9de4bd9c285afb3004ea",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "33bc24e30797",
+      "kind": "list_item",
+      "source": "Note #8: tokenmark compose meeting.md --type technical-guide --audience developers",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:af21072be7c5f8caa892f17ee72981814e71875d2dd88269b48bc3f3bd45aed8",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

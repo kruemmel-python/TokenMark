@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "source": "docs/brainstorming_notes.md",
+      "title": "Chaotisches Brainstorming",
+      "url": "brainstorming_notes.html",
+      "order": 999,
+      "text": "# Chaotisches Brainstorming\n\n- TokenMark soll chaotische Meeting-Notizen aufnehmen\n- Zielgruppe: Python Entwickler und technische Autoren\n- Markdown bleibt am Ende kontrollierte Ausgabe\n- Pipeline: Notizen -> Intent Graph -> Blueprint -> Markdown -> TokenMark QA\n- Risiko: KI darf keine Fakten erfinden\n- Wie markieren wir offene Fragen?\n- tokenmark compose meeting.md --type technical-guide --audience developers\n- PDF und i18n sollen danach normal funktionieren\n- QA: Links, Code, Platzhalter müssen stabil bleiben\n"
+    },
+    {
+      "source": "docs/generated/concepts.md",
+      "title": "Concepts",
+      "url": "generated/concepts.html",
+      "order": 999,
+      "text": "---\ntitle: \"Concepts\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n# Concepts\n\nDefine the core concepts and vocabulary before implementation details.\n\n## Key Points\n\n- Notes\n\n## Procedure\n\n1. TokenMark compose generated pages should keep folder paths.\n\n## Traceability\n\nThe following source notes support this section:\n\n- Note #1: Notes\n- Note #2: TokenMark compose generated pages should keep folder paths.\n"
+    },
+    {
+      "source": "docs/demo.md",
+      "title": "Demo",
+      "url": "demo.html",
+      "order": 999,
+      "text": "---\ntitle: Demo\n---\n\n# Einführung\n\nHallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID.\n\n- Punkt eins\n- Punkt zwei mit `inline code`\n\n> [!WARNING]\n> Ein wichtiger Hinweis.\n\n::: info Hinweis\nDieser Admonition-Text ist übersetzbar.\n:::\n\n| Spalte A | Spalte B |\n|---|---|\n| Alpha | Beta |\n\n![Alternativtext](image.png)\n\n\n\nMehr Text.\n"
+    },
+    {
+      "source": "docs/generated/implementation.md",
+      "title": "Implementation",
+      "url": "generated/implementation.html",
+      "order": 999,
+      "text": "---\ntitle: \"Implementation\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n# Implementation\n\nTurn implementation notes into concrete technical guidance.\n\n## Key Points\n\n- QA: Links, Code, Platzhalter müssen stabil bleiben\n\n## Procedure\n\n1. PDF und i18n sollen danach normal funktionieren\n\n## Traceability\n\nThe following source notes support this section:\n\n- Note #9: PDF und i18n sollen danach normal funktionieren\n- Note #10: QA: Links, Code, Platzhalter müssen stabil bleiben\n"
+    },
+    {
+      "source": "docs/generated/index.md",
+      "title": "Notes",
+      "url": "generated/index.html",
+      "order": 999,
+      "text": "---\ntitle: \"Notes\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n# Notes\n\n> This documentation was generated from unstructured notes through TokenMark Compose.\n> It should be reviewed before publication.\n\n## Modules\n\n- [Overview](./overview.md)\n- [Concepts](./concepts.md)\n- [Workflow](./workflow.md)\n- [Risks and Open Questions](./risks-and-open-questions.md)\n\n## Global Open Questions\n\n- Which statements require human confirmation before publication?\n- Which target audience is authoritative for wording and depth?\n- Which examples, commands, or screenshots should be treated as canonical?\n"
+    },
+    {
+      "source": "docs/generated/open_questions.md",
+      "title": "Open Questions",
+      "url": "generated/open_questions.html",
+      "order": 999,
+      "text": "# Open Questions\n\n- Which statements require human confirmation before publication?\n- Which target audience is authoritative for wording and depth?\n- Which examples, commands, or screenshots should be treated as canonical?\n"
+    },
+    {
+      "source": "docs/generated/overview.md",
+      "title": "Overview",
+      "url": "generated/overview.html",
+      "order": 999,
+      "text": "---\ntitle: \"Overview\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n# Overview\n\nExplain the purpose, scope, and value of the material.\n"
+    },
+    {
+      "source": "docs/generated/risks-and-open-questions.md",
+      "title": "Risks and Open Questions",
+      "url": "generated/risks-and-open-questions.html",
+      "order": 999,
+      "text": "---\ntitle: \"Risks and Open Questions\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n# Risks and Open Questions\n\nMake uncertainty explicit instead of inventing missing facts.\n"
+    },
+    {
+      "source": "docs/generated/workflow.md",
+      "title": "Workflow",
+      "url": "generated/workflow.html",
+      "order": 999,
+      "text": "---\ntitle: \"Workflow\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n# Workflow\n\nDescribe the operational flow as reproducible steps.\n\n## Procedure\n\n1. docs/generated/index.md should become build/generated/index.html.\n\n## Traceability\n\nThe following source notes support this section:\n\n- Note #3: docs/generated/index.md should become build/generated/index.html.\n"
+    }
+  ]
+}

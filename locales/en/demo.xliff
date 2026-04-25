@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0"><file id="/mnt/data/tokenmark_v040/docs/demo.md">
+<unit id="2457dbb9c50b"><segment><source>Einführung</source><target></target></segment></unit>
+<unit id="e5008dd02810"><segment><source>Hallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID.</source><target></target></segment></unit>
+<unit id="e9684e50ba18"><segment><source>Link</source><target></target></segment></unit>
+<unit id="a66a102151ea"><segment><source>Punkt eins</source><target></target></segment></unit>
+<unit id="eeea2fc56a9a"><segment><source>Punkt zwei mit `inline code`</source><target></target></segment></unit>
+<unit id="be4d2b2ab798"><segment><source>Ein wichtiger Hinweis.</source><target></target></segment></unit>
+<unit id="a3ded08a36c8"><segment><source>Hinweis</source><target></target></segment></unit>
+<unit id="ba1150d7db0a"><segment><source>Dieser Admonition-Text ist übersetzbar.</source><target></target></segment></unit>
+<unit id="75bf5154b84b"><segment><source>Spalte A</source><target></target></segment></unit>
+<unit id="dfbdcfc7bb18"><segment><source>Spalte B</source><target></target></segment></unit>
+<unit id="c0546232c63d"><segment><source>Alpha</source><target></target></segment></unit>
+<unit id="00be349b29bd"><segment><source>Beta</source><target></target></segment></unit>
+<unit id="142fd5c1ef11"><segment><source>![Alternativtext](image.png)</source><target></target></segment></unit>
+<unit id="cafb7a613484"><segment><source>Alternativtext</source><target></target></segment></unit>
+<unit id="4c4149d1afcd"><segment><source>Mehr Text.</source><target></target></segment></unit>
+</file></xliff>

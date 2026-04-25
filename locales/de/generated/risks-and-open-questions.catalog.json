@@ -1,0 +1,27 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/risks-and-open-questions.md",
+  "entries": [
+    {
+      "id": "2cd7cebb551d",
+      "kind": "heading",
+      "source": "Risks and Open Questions",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:4d17daf56d7881a9a4ba9c9d047d847e22a456a3313d84fa82c59ab30f4e3de6",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "9c8009ae5f52",
+      "kind": "paragraph",
+      "source": "Make uncertainty explicit instead of inventing missing facts.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:70208d1d0cb94e03b5b3994c4dfa6ed4b28648669fcf14ff6aa12464c6c59f49",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

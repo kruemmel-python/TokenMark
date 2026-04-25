@@ -1,0 +1,21 @@
+{
+  "type": "document",
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/overview.md",
+  "frontmatter": "---\ntitle: \"Overview\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n",
+  "nodes": [
+    {
+      "id": "a652f1cdfad3",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "1b307b6bbc71",
+      "kind": "paragraph",
+      "frozen": false,
+      "meta": {}
+    }
+  ]
+}

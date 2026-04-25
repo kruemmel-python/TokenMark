@@ -1,0 +1,71 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/index.md",
+  "nodes": [
+    {
+      "id": "4d5bd84583a1",
+      "kind": "heading",
+      "source": "Notes",
+      "fingerprint": "sha256:8a7525b1492fb84833f5c4a69b30f4bfbb134f9b666b61a2c1872d63d234c085"
+    },
+    {
+      "id": "f61464a49fb8",
+      "kind": "blockquote",
+      "source": "This documentation was generated from unstructured notes through TokenMark Compose.\nIt should be reviewed before publication.",
+      "fingerprint": "sha256:a080d2285bdb58be5bb9a5050a33c3b59ae7531745860f5dbe14b6ad7a54c0da"
+    },
+    {
+      "id": "717bced5a961",
+      "kind": "heading",
+      "source": "Modules",
+      "fingerprint": "sha256:76c86c4c32432be30bdd4037aae3c816045cc2a34a0b41b2322bb2c37927323e"
+    },
+    {
+      "id": "571f106bffd6",
+      "kind": "list_item",
+      "source": "[Overview](./overview.md)",
+      "fingerprint": "sha256:3fbabb9ef7576e472b0bc3d57938b2f486eb1a0166a199d72653fc14d06342b6"
+    },
+    {
+      "id": "937f03d36270",
+      "kind": "list_item",
+      "source": "[Concepts](./concepts.md)",
+      "fingerprint": "sha256:e3b2dc2c26ce4ac5b3bebe1f2e5837818e4b5c8cb4dffc87c1db4d6f8d0e85c5"
+    },
+    {
+      "id": "42b7cfab3963",
+      "kind": "list_item",
+      "source": "[Workflow](./workflow.md)",
+      "fingerprint": "sha256:c5a9b4fcc94c8f152ba717ced257992da164b5de253f5fa7d25df7c06f6b4dd7"
+    },
+    {
+      "id": "9d7b316654a9",
+      "kind": "list_item",
+      "source": "[Risks and Open Questions](./risks-and-open-questions.md)",
+      "fingerprint": "sha256:4568ac9add4bbca73aa3b96d4a6df9ac5808e894b18f6482a649142f88fe985c"
+    },
+    {
+      "id": "8d9c340933c9",
+      "kind": "heading",
+      "source": "Global Open Questions",
+      "fingerprint": "sha256:49bdc987850f65ec637f3e78f1b013c63635437122002caf0df734b4ab22964f"
+    },
+    {
+      "id": "b437cc88d305",
+      "kind": "list_item",
+      "source": "Which statements require human confirmation before publication?",
+      "fingerprint": "sha256:599b2e3a0b2bccde873807590bec849bac7451cb1bde3130503677647616ae53"
+    },
+    {
+      "id": "1e03fcbb66ad",
+      "kind": "list_item",
+      "source": "Which target audience is authoritative for wording and depth?",
+      "fingerprint": "sha256:ad3addc4a8d0b19f90346e5206734f144b5ba7d8f9164ade3cc2b343487aee1f"
+    },
+    {
+      "id": "dcc03a9eb937",
+      "kind": "list_item",
+      "source": "Which examples, commands, or screenshots should be treated as canonical?",
+      "fingerprint": "sha256:5c29a2e732f24a81130829080a8d6b982d76b352f2244098c8b202d3be83376a"
+    }
+  ]
+}

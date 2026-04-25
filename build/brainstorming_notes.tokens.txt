@@ -1,0 +1,10 @@
+d483884b4f13(heading): Chaotisches Brainstorming
+efa64521b5fc(list_item): TokenMark soll chaotische Meeting-Notizen aufnehmen
+644c658d896c(list_item): Zielgruppe: Python Entwickler und technische Autoren
+ab72e357670b(list_item): Markdown bleibt am Ende kontrollierte Ausgabe
+76b101b744ec(list_item): Pipeline: Notizen -> Intent Graph -> Blueprint -> Markdown -> TokenMark QA
+825569485b9a(list_item): Risiko: KI darf keine Fakten erfinden
+03ce736eeb42(list_item): Wie markieren wir offene Fragen?
+cc96f64a8ad6(list_item): tokenmark compose meeting.md --type technical-guide --audience developers
+4a5dfcdb5885(list_item): PDF und i18n sollen danach normal funktionieren
+560ed3932a8f(list_item): QA: Links, Code, Platzhalter müssen stabil bleiben

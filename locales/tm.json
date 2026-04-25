@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "entries": {
+    "8d96b0bdefa41a8849b76d37ef599aeadce5615e51e69091abe8527fe9deca4e": {
+      "source": "Einführung",
+      "target": "[en] Einführung",
+      "kind": "heading",
+      "last_segment_id": "2457dbb9c50b"
+    },
+    "5347f569dd858e4d10077acaa9f885142008922219e8c562e16a32bdcdf31363": {
+      "source": "Hallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID.",
+      "target": "[en] Hallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID.",
+      "kind": "paragraph",
+      "last_segment_id": "e5008dd02810"
+    },
+    "a6a32dbc5618ea39f6df5b0f9808e3588b19e00d5f6f96c69492e40386e5aeab": {
+      "source": "Link",
+      "target": "[en] Link",
+      "kind": "link_text",
+      "last_segment_id": "e9684e50ba18"
+    },
+    "bc735c48242f424160616f5c44b7499cd3dc5e710923f37e2aa49e524a547eed": {
+      "source": "Punkt eins",
+      "target": "[en] Punkt eins",
+      "kind": "list_item",
+      "last_segment_id": "a66a102151ea"
+    },
+    "7683840379750099cf758f2d7eadafb07272245e044c6ebd7469521cacea8de6": {
+      "source": "Punkt zwei mit `inline code`",
+      "target": "[en] Punkt zwei mit `inline code`",
+      "kind": "list_item",
+      "last_segment_id": "eeea2fc56a9a"
+    },
+    "7b84f0af3d97653c0fbe01b7ca12f64382dd0008deb2c2fbcee43c4dd44a7e73": {
+      "source": "Ein wichtiger Hinweis.",
+      "target": "[en] Ein wichtiger Hinweis.",
+      "kind": "blockquote",
+      "last_segment_id": "be4d2b2ab798"
+    },
+    "2e2011d96a4116985c5cfb35df7d4f59083c21b70c8a5ac927e41a1f92f89329": {
+      "source": "Hinweis",
+      "target": "[en] Hinweis",
+      "kind": "admonition_title",
+      "last_segment_id": "a3ded08a36c8"
+    },
+    "7a282e502e6923be21f3e528c6ac3914b9f0617b19ef837c65f5cb0efbd1c51f": {
+      "source": "Dieser Admonition-Text ist übersetzbar.",
+      "target": "[en] Dieser Admonition-Text ist übersetzbar.",
+      "kind": "admonition_body",
+      "last_segment_id": "ba1150d7db0a"
+    },
+    "3ddd471f12ac7b218b3fede3675a6b9c9a7661511bd82bcd7bc9918e4304d75d": {
+      "source": "Spalte A",
+      "target": "[en] Spalte A",
+      "kind": "table_cell",
+      "last_segment_id": "75bf5154b84b"
+    },
+    "b499c3e94778074961de14170cd8802f9eb10f244a6719ec006226afbcde1fd2": {
+      "source": "Spalte B",
+      "target": "[en] Spalte B",
+      "kind": "table_cell",
+      "last_segment_id": "dfbdcfc7bb18"
+    },
+    "b1a96dd646bccaa24cef7a3db22a6f995f05658f4f1c3272913e258c03e6fb24": {
+      "source": "Alpha",
+      "target": "[en] Alpha",
+      "kind": "table_cell",
+      "last_segment_id": "c0546232c63d"
+    },
+    "703390318bd55aef50b7823d2b90a846debff99e6e3d401a24a921b733912a6d": {
+      "source": "Beta",
+      "target": "[en] Beta",
+      "kind": "table_cell",
+      "last_segment_id": "00be349b29bd"
+    },
+    "ee2c5c10b5e43736804ea32397ca59b8e1543720e36e404448404e7436af7768": {
+      "source": "![Alternativtext](image.png)",
+      "target": "[en] ![Alternativtext](image.png)",
+      "kind": "paragraph",
+      "last_segment_id": "142fd5c1ef11"
+    },
+    "15a0115c0177cf921cb89c5388325c4839022721f662b992a21d0d5843a82017": {
+      "source": "Alternativtext",
+      "target": "[en] Alternativtext",
+      "kind": "image_alt",
+      "last_segment_id": "cafb7a613484"
+    },
+    "2d1a71153b79a487688f759dd2cbfee0a176b8598e62d38e8624a6dd874131b0": {
+      "source": "Mehr Text.",
+      "target": "[en] Mehr Text.",
+      "kind": "paragraph",
+      "last_segment_id": "4c4149d1afcd"
+    }
+  }
+}

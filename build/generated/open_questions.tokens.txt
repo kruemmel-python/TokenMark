@@ -1,0 +1,4 @@
+412a0c99800d(heading): Open Questions
+bba58f90272e(list_item): Which statements require human confirmation before publication?
+2243e2505f06(list_item): Which target audience is authoritative for wording and depth?
+8c0aeb8bd7ea(list_item): Which examples, commands, or screenshots should be treated as canonical?

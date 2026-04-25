@@ -1,0 +1,107 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/brainstorming_notes.md",
+  "entries": [
+    {
+      "id": "d483884b4f13",
+      "kind": "heading",
+      "source": "Chaotisches Brainstorming",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:bcfabe1b1f625fe8c2dd067eb0dc861464d5976f3ff025e5956741c4d3e67737",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "efa64521b5fc",
+      "kind": "list_item",
+      "source": "TokenMark soll chaotische Meeting-Notizen aufnehmen",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:62aefa9f7381857a94bc9ede9f9b22617eddb8dd845cdd9196d5bacc491bdd40",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "644c658d896c",
+      "kind": "list_item",
+      "source": "Zielgruppe: Python Entwickler und technische Autoren",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:9edf2bdd48a018c55377da9351fd789415d801e1f15ae36ad2d2e8568e127b4e",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "ab72e357670b",
+      "kind": "list_item",
+      "source": "Markdown bleibt am Ende kontrollierte Ausgabe",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:58971b02568780f58d66cb00be503949f563eed93c922772e16d2ce7e0cf8dc7",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "76b101b744ec",
+      "kind": "list_item",
+      "source": "Pipeline: Notizen -> Intent Graph -> Blueprint -> Markdown -> TokenMark QA",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:1805cd4110f2ef14270c4ae80ccb473a24a917d500b03df82eef95c967387029",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "825569485b9a",
+      "kind": "list_item",
+      "source": "Risiko: KI darf keine Fakten erfinden",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:4591b23b81120614a631568a432c14250daef9bc922c2b5c655c47683c2cb345",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "03ce736eeb42",
+      "kind": "list_item",
+      "source": "Wie markieren wir offene Fragen?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:c2c9e7d7511cf4a1ee6f3e1f116ea12c68bb427757d1a12b57f435d81a3246ce",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "cc96f64a8ad6",
+      "kind": "list_item",
+      "source": "tokenmark compose meeting.md --type technical-guide --audience developers",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:d56c2c1ee2b52b741b0fd29d59f79b14a110f0cec4b56e18fe9604c33dc8fa6f",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "4a5dfcdb5885",
+      "kind": "list_item",
+      "source": "PDF und i18n sollen danach normal funktionieren",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:cb5bccc2f9f3dbe3b21499bb8316f16b31ea8032e361f560d4ad2017275ddc28",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "560ed3932a8f",
+      "kind": "list_item",
+      "source": "QA: Links, Code, Platzhalter müssen stabil bleiben",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:a44f8b9e1e7342d89a18ac6120ad6e14e2bb76ada062be228adb7457aad9d811",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

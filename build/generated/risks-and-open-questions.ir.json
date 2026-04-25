@@ -1,0 +1,21 @@
+{
+  "type": "document",
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/risks-and-open-questions.md",
+  "frontmatter": "---\ntitle: \"Risks and Open Questions\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n",
+  "nodes": [
+    {
+      "id": "2cd7cebb551d",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "9c8009ae5f52",
+      "kind": "paragraph",
+      "frozen": false,
+      "meta": {}
+    }
+  ]
+}

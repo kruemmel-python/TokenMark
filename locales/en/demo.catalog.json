@@ -1,0 +1,165 @@
+{
+  "source": "/mnt/data/tokenmark_v060_work/docs/demo.md",
+  "entries": [
+    {
+      "id": "2457dbb9c50b",
+      "kind": "heading",
+      "source": "Einführung",
+      "target": "[en] Einführung",
+      "frozen": false,
+      "fingerprint": "sha256:8d96b0bdefa41a8849b76d37ef599aeadce5615e51e69091abe8527fe9deca4e",
+      "status": "needs_review",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "e5008dd02810",
+      "kind": "paragraph",
+      "source": "Hallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID.",
+      "target": "[en] Hallo **Welt**. Dies ist ein [Link](https://example.com) mit stabiler Text-ID.",
+      "frozen": false,
+      "fingerprint": "sha256:5347f569dd858e4d10077acaa9f885142008922219e8c562e16a32bdcdf31363",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "e9684e50ba18",
+      "kind": "link_text",
+      "source": "Link",
+      "target": "[en] Link",
+      "frozen": false,
+      "fingerprint": "sha256:a6a32dbc5618ea39f6df5b0f9808e3588b19e00d5f6f96c69492e40386e5aeab",
+      "status": "needs_review",
+      "meta": {
+        "parent": "paragraph"
+      }
+    },
+    {
+      "id": "a66a102151ea",
+      "kind": "list_item",
+      "source": "Punkt eins",
+      "target": "[en] Punkt eins",
+      "frozen": false,
+      "fingerprint": "sha256:bc735c48242f424160616f5c44b7499cd3dc5e710923f37e2aa49e524a547eed",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "eeea2fc56a9a",
+      "kind": "list_item",
+      "source": "Punkt zwei mit `inline code`",
+      "target": "[en] Punkt zwei mit `inline code`",
+      "frozen": false,
+      "fingerprint": "sha256:7683840379750099cf758f2d7eadafb07272245e044c6ebd7469521cacea8de6",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "be4d2b2ab798",
+      "kind": "blockquote",
+      "source": "Ein wichtiger Hinweis.",
+      "target": "[en] Ein wichtiger Hinweis.",
+      "frozen": false,
+      "fingerprint": "sha256:7b84f0af3d97653c0fbe01b7ca12f64382dd0008deb2c2fbcee43c4dd44a7e73",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "a3ded08a36c8",
+      "kind": "admonition_title",
+      "source": "Hinweis",
+      "target": "[en] Hinweis",
+      "frozen": false,
+      "fingerprint": "sha256:2e2011d96a4116985c5cfb35df7d4f59083c21b70c8a5ac927e41a1f92f89329",
+      "status": "needs_review",
+      "meta": {
+        "admonition_type": "info"
+      }
+    },
+    {
+      "id": "ba1150d7db0a",
+      "kind": "admonition_body",
+      "source": "Dieser Admonition-Text ist übersetzbar.",
+      "target": "[en] Dieser Admonition-Text ist übersetzbar.",
+      "frozen": false,
+      "fingerprint": "sha256:7a282e502e6923be21f3e528c6ac3914b9f0617b19ef837c65f5cb0efbd1c51f",
+      "status": "needs_review",
+      "meta": {
+        "admonition_type": "info"
+      }
+    },
+    {
+      "id": "75bf5154b84b",
+      "kind": "table_cell",
+      "source": "Spalte A",
+      "target": "[en] Spalte A",
+      "frozen": false,
+      "fingerprint": "sha256:3ddd471f12ac7b218b3fede3675a6b9c9a7661511bd82bcd7bc9918e4304d75d",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "dfbdcfc7bb18",
+      "kind": "table_cell",
+      "source": "Spalte B",
+      "target": "[en] Spalte B",
+      "frozen": false,
+      "fingerprint": "sha256:b499c3e94778074961de14170cd8802f9eb10f244a6719ec006226afbcde1fd2",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "c0546232c63d",
+      "kind": "table_cell",
+      "source": "Alpha",
+      "target": "[en] Alpha",
+      "frozen": false,
+      "fingerprint": "sha256:b1a96dd646bccaa24cef7a3db22a6f995f05658f4f1c3272913e258c03e6fb24",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "00be349b29bd",
+      "kind": "table_cell",
+      "source": "Beta",
+      "target": "[en] Beta",
+      "frozen": false,
+      "fingerprint": "sha256:703390318bd55aef50b7823d2b90a846debff99e6e3d401a24a921b733912a6d",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "142fd5c1ef11",
+      "kind": "paragraph",
+      "source": "![Alternativtext](image.png)",
+      "target": "[en] ![Alternativtext](image.png)",
+      "frozen": false,
+      "fingerprint": "sha256:ee2c5c10b5e43736804ea32397ca59b8e1543720e36e404448404e7436af7768",
+      "status": "needs_review",
+      "meta": {}
+    },
+    {
+      "id": "cafb7a613484",
+      "kind": "image_alt",
+      "source": "Alternativtext",
+      "target": "[en] Alternativtext",
+      "frozen": false,
+      "fingerprint": "sha256:15a0115c0177cf921cb89c5388325c4839022721f662b992a21d0d5843a82017",
+      "status": "needs_review",
+      "meta": {
+        "parent": "paragraph"
+      }
+    },
+    {
+      "id": "4c4149d1afcd",
+      "kind": "paragraph",
+      "source": "Mehr Text.",
+      "target": "[en] Mehr Text.",
+      "frozen": false,
+      "fingerprint": "sha256:2d1a71153b79a487688f759dd2cbfee0a176b8598e62d38e8624a6dd874131b0",
+      "status": "needs_review",
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+966bf3f14a6d(heading): Implementation
+f36a93eaaf92(paragraph): Turn implementation notes into concrete technical guidance.
+dad019089f81(heading): Key Points
+1d1d4b3ce782(list_item): QA: Links, Code, Platzhalter müssen stabil bleiben
+3befa3373b58(heading): Procedure
+e642e0a41a8c(list_item): PDF und i18n sollen danach normal funktionieren
+61e6d9bbfa0a(heading): Traceability
+43f2f994b7b9(paragraph): The following source notes support this section:
+65eaaba29348(list_item): Note #9: PDF und i18n sollen danach normal funktionieren
+7b253a16f012(list_item): Note #10: QA: Links, Code, Platzhalter müssen stabil bleiben

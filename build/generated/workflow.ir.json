@@ -1,0 +1,55 @@
+{
+  "type": "document",
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/workflow.md",
+  "frontmatter": "---\ntitle: \"Workflow\"\ndocument_type: \"technical-guide\"\naudience: \"developers\"\ngenerated_by: tokenmark-compose\n---\n\n",
+  "nodes": [
+    {
+      "id": "9317b719b4f9",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "31ce4456c4b7",
+      "kind": "paragraph",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "1c6212243327",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "b7b25e3025ca",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "efd1f0c55152",
+      "kind": "heading",
+      "frozen": false,
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "50a7cdeb023f",
+      "kind": "paragraph",
+      "frozen": false,
+      "meta": {}
+    },
+    {
+      "id": "f4663446f041",
+      "kind": "list_item",
+      "frozen": false,
+      "meta": {}
+    }
+  ]
+}

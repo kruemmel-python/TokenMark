@@ -1,0 +1,11 @@
+4d5bd84583a1(heading): Notes
+f61464a49fb8(blockquote): This documentation was generated from unstructured notes through TokenMark Compose.\nIt should be reviewed before publication.
+717bced5a961(heading): Modules
+571f106bffd6(list_item): [Overview](./overview.md)
+937f03d36270(list_item): [Concepts](./concepts.md)
+42b7cfab3963(list_item): [Workflow](./workflow.md)
+9d7b316654a9(list_item): [Risks and Open Questions](./risks-and-open-questions.md)
+8d9c340933c9(heading): Global Open Questions
+b437cc88d305(list_item): Which statements require human confirmation before publication?
+1e03fcbb66ad(list_item): Which target audience is authoritative for wording and depth?
+dcc03a9eb937(list_item): Which examples, commands, or screenshots should be treated as canonical?

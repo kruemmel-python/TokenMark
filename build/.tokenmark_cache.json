@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "files": {
+    "docs/brainstorming_notes.md": {
+      "docs/brainstorming_notes.md": "3eabbdeee66d8795a4c211b3d7029d244b4b95172c3e73197117d8a2676a5fbf",
+      "locales/de/brainstorming_notes.catalog.json": "10cd1fd50bccaa0d2fbc9c6f5c2f8728a73bed69d74e739ef672e9c6534cc9c2"
+    },
+    "docs/demo.md": {
+      "docs/demo.md": "47c9e068113ce4e4be241e3c25ce92e2a8c598f2f8c1fd06d7fb474307fb3a89",
+      "locales/de/demo.catalog.json": "6d0487ef1bb9216ae9ba4301d68dcb2695bac86d08a949ee9abd5176c7ce4aba"
+    },
+    "docs/generated/concepts.md": {
+      "docs/generated/concepts.md": "68e1e7fdb7895df22f38d8ac152b1e687b3a6913d4b55fbe71974b4c7b91ae6e",
+      "locales/de/concepts.catalog.json": "abee99ea16abc060c9992410460948ae1d19955f7f9877a868741fecdf28fb36"
+    },
+    "docs/generated/implementation.md": {
+      "docs/generated/implementation.md": "09ce8b29adec11cb02bd51d0c90086cf18a243c1ea2f5559d40e1127415e9ece",
+      "locales/de/implementation.catalog.json": "9a1c2e83e035905f4754825bc86d11f99ebf88c2ad654ddbb2c0a1aa7e9247e7"
+    },
+    "docs/generated/index.md": {
+      "docs/generated/index.md": "bcc36fdc073fb6ebb7ed81c6b0a19cd097575593ef796ffaae193b72a0195a95",
+      "locales/de/index.catalog.json": "c35c166ce774df574d7b36f590416321afbb8960a193e278687188cf1400a175"
+    },
+    "docs/generated/open_questions.md": {
+      "docs/generated/open_questions.md": "7e34bea7c7a04138c21d355377ce0b6c0684b93bb50a90719cf5a3e8a78e57a1",
+      "locales/de/open_questions.catalog.json": "7093ea686f405bb0fa98135b873b80127865947df75d0dda307f7b5f5618cae1"
+    },
+    "docs/generated/overview.md": {
+      "docs/generated/overview.md": "3a6bc9e519912686da152e5da062eba3295749515282ebf349f952e1fdd291cf",
+      "locales/de/overview.catalog.json": "5b3ba350edf3b3042007cc02e961d5ffb3905697272ab1830977c95e72027e13"
+    },
+    "docs/generated/risks-and-open-questions.md": {
+      "docs/generated/risks-and-open-questions.md": "c5d2a1d8dfd07e72777ba064d42e3d31be4d66754f93b3d10b7a4a1afaa60622",
+      "locales/de/risks-and-open-questions.catalog.json": "911d3b7c03a4b2a67d652190ee026f553b423644e2602b6458c02a9b7612d715"
+    },
+    "docs/generated/workflow.md": {
+      "docs/generated/workflow.md": "83b060f6c3b34a6cb4e6c059abb04d0dcf58dff3234d4cec2838d792387a2a64"
+    }
+  },
+  "globals": {
+    ".tokenmark.json": "aa0858cfe32eb6ba9e5226152c4a8b152584097edd600d55010f47c52b6b17a5",
+    "themes/default.css": "7e67918d5b9b2ab998c7738e2b2ebb282ec39a001eaf06965e0fc5eaed92e799",
+    "locales/glossary.json": "1e244eb4e82fa4aa6fff6f59aae5d4889a054e5085d37c557aef2d0718b0a8c2"
+  }
+}

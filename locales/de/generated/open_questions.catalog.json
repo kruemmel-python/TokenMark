@@ -1,0 +1,47 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/open_questions.md",
+  "entries": [
+    {
+      "id": "412a0c99800d",
+      "kind": "heading",
+      "source": "Open Questions",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:869ddafd6d30cad8832eab17f61a2c242f6ba842754e1518151b58631788be00",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "bba58f90272e",
+      "kind": "list_item",
+      "source": "Which statements require human confirmation before publication?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:599b2e3a0b2bccde873807590bec849bac7451cb1bde3130503677647616ae53",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "2243e2505f06",
+      "kind": "list_item",
+      "source": "Which target audience is authoritative for wording and depth?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:ad3addc4a8d0b19f90346e5206734f144b5ba7d8f9164ade3cc2b343487aee1f",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "8c0aeb8bd7ea",
+      "kind": "list_item",
+      "source": "Which examples, commands, or screenshots should be treated as canonical?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:5c29a2e732f24a81130829080a8d6b982d76b352f2244098c8b202d3be83376a",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

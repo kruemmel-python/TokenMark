@@ -1,0 +1,37 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/meeting_notes_fix.md",
+  "entries": [
+    {
+      "id": "ac48e70d8cfd",
+      "kind": "heading",
+      "source": "Notes",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:8a7525b1492fb84833f5c4a69b30f4bfbb134f9b666b61a2c1872d63d234c085",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "0847a982ad45",
+      "kind": "list_item",
+      "source": "TokenMark compose generated pages should keep folder paths.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:b93d027fce84401fb14abcc93c56e7cf192eda4b3cd7eb4e65541c9addb605f0",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "0d629826687c",
+      "kind": "list_item",
+      "source": "docs/generated/index.md should become build/generated/index.html.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:f827d8421c504d02723d636a5ce19492d8458587ac02260509ab6687fdabc027",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_work/docs/generated/index.md",
+  "entries": [
+    {
+      "id": "1a364c24875b",
+      "kind": "heading",
+      "source": "Chaotisches Brainstorming",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:bcfabe1b1f625fe8c2dd067eb0dc861464d5976f3ff025e5956741c4d3e67737",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "9af14aed36ba",
+      "kind": "blockquote",
+      "source": "This documentation was generated from unstructured notes through TokenMark Compose.\nIt should be reviewed before publication.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:a080d2285bdb58be5bb9a5050a33c3b59ae7531745860f5dbe14b6ad7a54c0da",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "d2dc43319969",
+      "kind": "heading",
+      "source": "Modules",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:76c86c4c32432be30bdd4037aae3c816045cc2a34a0b41b2322bb2c37927323e",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "7f29093def13",
+      "kind": "list_item",
+      "source": "[Overview](./overview.md)",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:3fbabb9ef7576e472b0bc3d57938b2f486eb1a0166a199d72653fc14d06342b6",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "ac316ead6a70",
+      "kind": "list_item",
+      "source": "[Concepts](./concepts.md)",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:e3b2dc2c26ce4ac5b3bebe1f2e5837818e4b5c8cb4dffc87c1db4d6f8d0e85c5",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "2de56a6df7b3",
+      "kind": "list_item",
+      "source": "[Implementation](./implementation.md)",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:19248cb22f0ccae9333e7e46f0025a1d78f95a15aa10f04755d825327b94e885",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "e8e895316fe3",
+      "kind": "list_item",
+      "source": "[Risks and Open Questions](./risks-and-open-questions.md)",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:4568ac9add4bbca73aa3b96d4a6df9ac5808e894b18f6482a649142f88fe985c",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "c47f9539e9e0",
+      "kind": "heading",
+      "source": "Global Open Questions",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:49bdc987850f65ec637f3e78f1b013c63635437122002caf0df734b4ab22964f",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "16a315a1da5f",
+      "kind": "list_item",
+      "source": "Wie markieren wir offene Fragen?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:c2c9e7d7511cf4a1ee6f3e1f116ea12c68bb427757d1a12b57f435d81a3246ce",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/implementation.md",
+  "nodes": [
+    {
+      "id": "966bf3f14a6d",
+      "kind": "heading",
+      "source": "Implementation",
+      "fingerprint": "sha256:1cff7713912f5d538506c1ba82db75b7caabcd0ee2dc4abee6bbd4db5878233e"
+    },
+    {
+      "id": "f36a93eaaf92",
+      "kind": "paragraph",
+      "source": "Turn implementation notes into concrete technical guidance.",
+      "fingerprint": "sha256:30773b9ae681c9152071db817837556d214e4140ddfb17d99ab4f25f9551c922"
+    },
+    {
+      "id": "dad019089f81",
+      "kind": "heading",
+      "source": "Key Points",
+      "fingerprint": "sha256:9b72a94094ab376d187aa8316a31a740681c9a41afe9ffba5dde37b027c4c718"
+    },
+    {
+      "id": "1d1d4b3ce782",
+      "kind": "list_item",
+      "source": "QA: Links, Code, Platzhalter müssen stabil bleiben",
+      "fingerprint": "sha256:a44f8b9e1e7342d89a18ac6120ad6e14e2bb76ada062be228adb7457aad9d811"
+    },
+    {
+      "id": "3befa3373b58",
+      "kind": "heading",
+      "source": "Procedure",
+      "fingerprint": "sha256:9c280284ef2669a2be7280a58557e553942fb2e0d2154e3f5949dc153c029bcf"
+    },
+    {
+      "id": "e642e0a41a8c",
+      "kind": "list_item",
+      "source": "PDF und i18n sollen danach normal funktionieren",
+      "fingerprint": "sha256:cb5bccc2f9f3dbe3b21499bb8316f16b31ea8032e361f560d4ad2017275ddc28"
+    },
+    {
+      "id": "61e6d9bbfa0a",
+      "kind": "heading",
+      "source": "Traceability",
+      "fingerprint": "sha256:a14559df36aa03d379157afd83732f774860202dae1507735fbd9cdda4c6fca7"
+    },
+    {
+      "id": "43f2f994b7b9",
+      "kind": "paragraph",
+      "source": "The following source notes support this section:",
+      "fingerprint": "sha256:8c0e92b0a7eccd6842769e5fff2a7439249540f90ab898fc5025d7b3a705d85f"
+    },
+    {
+      "id": "65eaaba29348",
+      "kind": "list_item",
+      "source": "Note #9: PDF und i18n sollen danach normal funktionieren",
+      "fingerprint": "sha256:4b3566038bcf3e1c05d4c1cc3133846f18523f7f6a1cbfa6ba997808b2556678"
+    },
+    {
+      "id": "7b253a16f012",
+      "kind": "list_item",
+      "source": "Note #10: QA: Links, Code, Platzhalter müssen stabil bleiben",
+      "fingerprint": "sha256:10cd74ccc4eca7611c970e8fe5122de8576571b413fdd0c52ad26849274f0719"
+    }
+  ]
+}

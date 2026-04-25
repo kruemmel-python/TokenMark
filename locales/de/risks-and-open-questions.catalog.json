@@ -1,0 +1,113 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_work/docs/generated/risks-and-open-questions.md",
+  "entries": [
+    {
+      "id": "47a48fe8d02c",
+      "kind": "heading",
+      "source": "Risks and Open Questions",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:4d17daf56d7881a9a4ba9c9d047d847e22a456a3313d84fa82c59ab30f4e3de6",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "9162311092f4",
+      "kind": "paragraph",
+      "source": "Make uncertainty explicit instead of inventing missing facts.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:70208d1d0cb94e03b5b3994c4dfa6ed4b28648669fcf14ff6aa12464c6c59f49",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "26a76b84ad77",
+      "kind": "heading",
+      "source": "Risks and Constraints",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:68d1c550b7b93388cb6c7d9464ee9df020c56f5e65398eddb5c3acbdcdf5a7a8",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "c63241d37ab5",
+      "kind": "list_item",
+      "source": "Risiko: KI darf keine Fakten erfinden",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:4591b23b81120614a631568a432c14250daef9bc922c2b5c655c47683c2cb345",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "baa04713a9a9",
+      "kind": "heading",
+      "source": "Open Questions",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:869ddafd6d30cad8832eab17f61a2c242f6ba842754e1518151b58631788be00",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "19677dae387a",
+      "kind": "list_item",
+      "source": "Wie markieren wir offene Fragen?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:c2c9e7d7511cf4a1ee6f3e1f116ea12c68bb427757d1a12b57f435d81a3246ce",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "a634b98b67ca",
+      "kind": "heading",
+      "source": "Traceability",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:a14559df36aa03d379157afd83732f774860202dae1507735fbd9cdda4c6fca7",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "4b8e2ef92742",
+      "kind": "paragraph",
+      "source": "The following source notes support this section:",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:8c0e92b0a7eccd6842769e5fff2a7439249540f90ab898fc5025d7b3a705d85f",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "7ffc1152cadc",
+      "kind": "list_item",
+      "source": "Note #6: Risiko: KI darf keine Fakten erfinden",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:736bb1abf854d3a4dc2a01d29150a0fa237c8a832089cbe608ea79e9443010ea",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "9ed260cd5c07",
+      "kind": "list_item",
+      "source": "Note #7: Wie markieren wir offene Fragen?",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:63b120b14092d935a12d560145b1bd64495a5ecd555b3703995d57253ee82aaa",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}

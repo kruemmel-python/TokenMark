@@ -1,0 +1,113 @@
+{
+  "source": "/mnt/data/tokenmark_v0_9_1_work/docs/generated/concepts.md",
+  "entries": [
+    {
+      "id": "44e2c97fdb42",
+      "kind": "heading",
+      "source": "Concepts",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:0d0a8c6df3ace225e9a8e34274e5c1c1116d1db8319aa5357a8448e8a9ad732f",
+      "status": "new",
+      "meta": {
+        "level": 1
+      }
+    },
+    {
+      "id": "1c206dd68989",
+      "kind": "paragraph",
+      "source": "Define the core concepts and vocabulary before implementation details.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:d8f2fb54ae65c1d6be7c4ada1e292fbd182a4efccc979db1f2050c791a96577a",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "7a21098c61c1",
+      "kind": "heading",
+      "source": "Key Points",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:9b72a94094ab376d187aa8316a31a740681c9a41afe9ffba5dde37b027c4c718",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "7f65b29c5fdc",
+      "kind": "list_item",
+      "source": "Notes",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:8a7525b1492fb84833f5c4a69b30f4bfbb134f9b666b61a2c1872d63d234c085",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "c51ac8269b74",
+      "kind": "heading",
+      "source": "Procedure",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:9c280284ef2669a2be7280a58557e553942fb2e0d2154e3f5949dc153c029bcf",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "1aa738a2d75c",
+      "kind": "list_item",
+      "source": "TokenMark compose generated pages should keep folder paths.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:b93d027fce84401fb14abcc93c56e7cf192eda4b3cd7eb4e65541c9addb605f0",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "23d28f238b22",
+      "kind": "heading",
+      "source": "Traceability",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:a14559df36aa03d379157afd83732f774860202dae1507735fbd9cdda4c6fca7",
+      "status": "new",
+      "meta": {
+        "level": 2
+      }
+    },
+    {
+      "id": "a4bf4be609b3",
+      "kind": "paragraph",
+      "source": "The following source notes support this section:",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:8c0e92b0a7eccd6842769e5fff2a7439249540f90ab898fc5025d7b3a705d85f",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "602934511ddd",
+      "kind": "list_item",
+      "source": "Note #1: Notes",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:0b4e2a11a123b2f8fccd3948956c591cc71adb6b7e3f12e0567fb7ac6aff3fcd",
+      "status": "new",
+      "meta": {}
+    },
+    {
+      "id": "754f1c20f82e",
+      "kind": "list_item",
+      "source": "Note #2: TokenMark compose generated pages should keep folder paths.",
+      "target": "",
+      "frozen": false,
+      "fingerprint": "sha256:61df5988044366316c14de2ceefa331252ba3925c37eb2eead9f2c744f7d49f6",
+      "status": "new",
+      "meta": {}
+    }
+  ]
+}
